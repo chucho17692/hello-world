@@ -1,3 +1,2 @@
 # hello-world
-
-Hi! Im just making changes to this
+just another repository
